@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Jetpack-MVVM-Best-Practice.iml" filepath="$PROJECT_DIR$/.idea/Jetpack-MVVM-Best-Practice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PureMusic.iml" filepath="$PROJECT_DIR$/PureMusic.iml" group="PureMusic" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" group="PureMusic/app" />
+      <module fileurl="file://$PROJECT_DIR$/architecture/architecture.iml" filepath="$PROJECT_DIR$/architecture/architecture.iml" group="PureMusic/architecture" />
+    </modules>
+  </component>
+</project>
